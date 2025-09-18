@@ -1,0 +1,85 @@
+{
+  "siteName": "WD Art's e Personalizados",
+  "tagline": "Personalizados alegres que dão vontade de usar",
+  "primaryColor": "#FF5AA5",
+  "accentColor": "#5BDAFF",
+  "bgSoft": "#FFF7FB",
+  "whatsappNumber": "+55 (62) 98277-9392",
+  "instagramHandle": "wdart_s",
+  "hero": {
+    "headline": "Feitos com carinho, do jeitinho que você imaginou",
+    "subheadline": "Cadernetas de Saúde, Livrinhos de Colorir, Etiquetas e Planners para encantar.",
+    "ctaText": "Quero um personalizado",
+    "heroImage": "assets/images/hero.jpg",
+    "badges": [
+      "🧵 Feito à mão — cada peça é única",
+      "🎨 Personalização total — nome, cores e tema",
+      "🚚 Envio para todo o Brasil — com rastreio"
+    ]
+  },
+  "products": [
+    {
+      "title": "Caderneta de Saúde",
+      "price": "Sob consulta",
+      "image": "assets/images/caderneta.jpg",
+      "description": "Capa com o nome, plastificada e com fichas internas."
+    },
+    {
+      "title": "Livrinho de Colorir",
+      "price": "Sob consulta",
+      "image": "assets/images/livro-colorir.jpg",
+      "description": "Tema da festa + atividades divertidas."
+    },
+    {
+      "title": "Etiquetas Escolares",
+      "price": "Sob consulta",
+      "image": "assets/images/etiquetas.jpg",
+      "description": "Kits resistentes à água, com seu tema favorito."
+    },
+    {
+      "title": "Planner Semanal",
+      "price": "Sob consulta",
+      "image": "assets/images/planner.jpg",
+      "description": "Planeje com estilo. Capa e miolo personalizados."
+    }
+  ],
+  "gallery": [
+    "assets/images/gal1.jpg",
+    "assets/images/gal2.jpg",
+    "assets/images/gal3.jpg",
+    "assets/images/gal4.jpg",
+    "assets/images/gal5.jpg",
+    "assets/images/gal6.jpg"
+  ],
+  "testimonials": [
+    {
+      "name": "Mariana • Palmas/TO",
+      "quote": "A caderneta ficou linda, atendimento perfeito!",
+      "avatar": "assets/images/ava1.jpg"
+    },
+    {
+      "name": "Jéssica • Goiânia/GO",
+      "quote": "Chegou rapidinho e do jeitinho que pedi ❤️",
+      "avatar": "assets/images/ava2.jpg"
+    },
+    {
+      "name": "Rafa • Brasília/DF",
+      "quote": "Qualidade top! Virou presente certo das festas.",
+      "avatar": "assets/images/ava3.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Como funciona o pedido?",
+      "a": "Você me chama no WhatsApp, alinhamos o tema, faço a arte e só depois produzo."
+    },
+    {
+      "q": "Quais formas de envio?",
+      "a": "Correios para todo o Brasil. Prazo informado na confirmação do pedido."
+    },
+    {
+      "q": "Vocês fazem sob medida?",
+      "a": "Sim! Tamanho, cores, nome, personagem… tudo do seu jeito."
+    }
+  ]
+}
