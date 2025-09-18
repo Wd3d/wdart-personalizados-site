@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title id="seo-title">WD Art's e Personalizados</title>
+  <meta name="description" id="seo-description" content="Personalizados alegres que dão vontade de usar.">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="sticky" class="sticky-bar">
+    <div class="container sticky-inner">
+      <span>Novidades no Instagram </span>
+      <a id="sticky-insta" class="pill" target="_blank" rel="noopener">@wdart_s</a>
+      <a id="sticky-wsp" class="btn small primary" target="_blank" rel="noopener">Pedir orçamento</a>
+    </div>
+  </div>
+
+  <header class="container header">
+    <div class="brand">
+      <div class="logo"></div>
+      <div>
+        <h1 id="site-name">WD Art's e Personalizados</h1>
+        <p id="site-tagline" class="tagline">Personalizados alegres que dão vontade de usar</p>
+      </div>
+    </div>
+    <nav>
+      <a href="#produtos">Produtos</a>
+      <a href="#galeria">Galeria</a>
+      <a href="#depoimentos">Depoimentos</a>
+      <a href="#faq">Dúvidas</a>
+      <a href="#contato" class="btn small primary">Quero o meu</a>
+    </nav>
+  </header>
+
+  <section class="hero container appear">
+    <div class="hero-text">
+      <h2 id="hero-headline">Feitos com carinho, do jeitinho que você imaginou</h2>
+      <p id="hero-subheadline">Cadernetas de Saúde, Livrinhos de Colorir, Etiquetas e Planners para encantar.</p>
+      <div class="badges" id="hero-badges"></div>
+      <div class="cta-row">
+        <a id="hero-cta" class="btn primary" target="_blank" rel="noopener"><img src="assets/images/cta-whatsapp.png" alt="Quero um personalizado — chamar no WhatsApp" style="height:64px;border-radius:999px"></a>
+        <a id="insta-link" class="btn outline" target="_blank" rel="noopener">
+          <img src="assets/icons/instagram.svg" alt="" aria-hidden="true"> Ver no Instagram
+        </a>
+      </div>
+    </div>
+    <div class="hero-media float">
+      <img id="hero-image" src="assets/images/hero.jpg" alt="Personalizados WD Art's">
+    </div>
+  </section>
+
+  <section id="produtos" class="container appear">
+    <h3 class="section-title">Produtos mais amados</h3>
+    <div id="products-grid" class="grid"></div>
+  </section>
+
+  <section id="galeria" class="container appear">
+    <h3 class="section-title">Galeria</h3>
+    <div id="gallery-grid" class="grid gallery-grid"></div>
+  </section>
+
+  <section id="depoimentos" class="container appear">
+    <h3 class="section-title">Quem já comprou, recomenda</h3>
+    <div class="carousel" id="testimonials-carousel">
+      <button class="nav prev" aria-label="anterior">‹</button>
+      <div class="track" id="track"></div>
+      <button class="nav next" aria-label="próximo">›</button>
+    </div>
+  </section>
+
+  <section id="faq" class="container appear">
+    <h3 class="section-title">Dúvidas frequentes</h3>
+    <div id="faq-list" class="accordion"></div>
+  </section>
+
+  <section id="cta" class="container cta appear">
+    <h3 id="cta-title">Bora criar algo lindo?</h3>
+    <p id="cta-subtitle">Fale comigo no WhatsApp ou peça pelo Instagram.</p>
+    <div class="cta-row">
+      <a id="cta-wsp" class="btn primary bounce" target="_blank" rel="noopener">Falar no WhatsApp</a>
+      <a id="cta-insta" class="btn outline" target="_blank" rel="noopener">Ver @wdart_s</a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <p>© <span id="year"></span> <span id="footer-name">WD Art's e Personalizados</span></p>
+      <div class="footer-actions">
+        <a id="footer-wsp" class="btn outline" target="_blank" rel="noopener">WhatsApp</a>
+        <a id="footer-insta" class="btn outline" target="_blank" rel="noopener">Instagram</a>
+      </div>
+    </div>
+  </footer>
+
+  <dialog id="lightbox">
+    <img id="lightbox-img" alt="">
+    <button id="lightbox-close" aria-label="fechar">✕</button>
+  </dialog>
+
+  <a id="whatsapp-float" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Abrir WhatsApp">
+    <img src="assets/icons/whatsapp.svg" alt="">
+  </a>
+
+  <script src="script.js"></script>
+</body>
+</html>

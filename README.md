@@ -1,0 +1,1 @@
+Versão dinâmica com animações. Edite config.json e as imagens em assets/images/.
