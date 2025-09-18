@@ -1,0 +1,91 @@
+{
+  "siteName": "WD Art's e Personalizados",
+  "tagline": "Personalizados feitos à mão, do seu jeito",
+  "primaryColor": "#6C5CE7",
+  "accentColor": "#00CEC9",
+  "whatsappNumber": "+55 63 9xxxx-xxxx",
+  "instagramHandle": "wdart_s",
+  "hero": {
+    "headline": "Personalizados feitos à mão, do seu jeito",
+    "subheadline": "Cadernetas de Saúde, Planners, Livrinhos de Colorir, Etiquetas e muito mais.",
+    "ctaText": "Pedir orçamento",
+    "heroImage": "assets/images/hero.jpg"
+  },
+  "features": [
+    {
+      "icon": "sparkles",
+      "title": "Arte Exclusiva",
+      "text": "Tudo criado com carinho para combinar com a sua ideia."
+    },
+    {
+      "icon": "bolt",
+      "title": "Prazo Rápido",
+      "text": "Envio ágil sem perder a qualidade."
+    },
+    {
+      "icon": "heart",
+      "title": "Atendimento Próximo",
+      "text": "Você aprova cada detalhe antes de produzir."
+    }
+  ],
+  "products": [
+    {
+      "title": "Caderneta de Saúde Personalizada",
+      "price": "Sob consulta",
+      "image": "assets/images/caderneta-saude.jpg",
+      "description": "Capa personalizada, plastificada, espaço para vacinas e crescimento. Ideal como recordação."
+    },
+    {
+      "title": "Livrinho de Colorir",
+      "price": "Sob consulta",
+      "image": "assets/images/livrinho-colorir.jpg",
+      "description": "Tema da festa, nome da criança e atividades lúdicas. Acompanha lápis opcional."
+    },
+    {
+      "title": "Planner Semanal A5",
+      "price": "Sob consulta",
+      "image": "assets/images/planner-semanal.jpg",
+      "description": "Organize sua semana com estilo. Opções de capa e miolo personalizáveis."
+    },
+    {
+      "title": "Etiquetas Escolares",
+      "price": "Sob consulta",
+      "image": "assets/images/etiquetas-escolares.jpg",
+      "description": "Kits de etiquetas com nome e tema. Resistentes à água."
+    },
+    {
+      "title": "Bloco de Anotações",
+      "price": "Sob consulta",
+      "image": "assets/images/bloco-anotacoes.jpg",
+      "description": "50 a 100 folhas, papel de alta gramatura, base rígida."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Cliente A",
+      "quote": "Perfeito, exatamente como imaginei!",
+      "avatar": "assets/images/avatar1.jpg"
+    },
+    {
+      "name": "Cliente B",
+      "quote": "Atendimento ótimo e produto impecável.",
+      "avatar": "assets/images/avatar2.jpg"
+    }
+  ],
+  "gallery": [
+    "assets/images/gal1.jpg",
+    "assets/images/gal2.jpg",
+    "assets/images/gal3.jpg",
+    "assets/images/gal4.jpg"
+  ],
+  "cta": {
+    "title": "Quer um personalizado WD Art's?",
+    "subtitle": "Fale comigo no WhatsApp ou peça pelo Instagram @wdart_s.",
+    "button": "Pedir orçamento"
+  },
+  "seo": {
+    "title": "WD Art's e Personalizados — planners, cadernetas e livrinhos",
+    "description": "WD Art's: cadernetas de saúde, planners, livrinhos de colorir, blocos e etiquetas personalizadas. Peça pelo WhatsApp ou Instagram @wdart_s.",
+    "keywords": "caderneta de saúde personalizada, planner, livrinho de colorir, etiquetas, WD Art's, personalizados"
+  }
+}
